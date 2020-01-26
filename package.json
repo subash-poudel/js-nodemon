@@ -1,0 +1,11 @@
+{
+  "name": "js-es6-start",
+  "version": "0.0.0",
+  "description": "A javascript es6 starter pack for writing es6 throwaway js code easily",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Subash Poudel",
+  "license": "MIT"
+}
